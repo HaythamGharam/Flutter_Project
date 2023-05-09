@@ -5,7 +5,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'package:resumecv/pages/haytham/profilehaytham.dart';
 import 'package:resumecv/pages/splashScreen.dart';
 import 'pages/haytham/haythamcv.dart';
-import 'pages/ousemacv.dart';
+import 'pages/ousema/ousemacv.dart';
 
 void main() {
   runApp(const ProviderScope(child: MyApp()));
