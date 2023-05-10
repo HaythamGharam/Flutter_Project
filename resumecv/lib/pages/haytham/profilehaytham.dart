@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'verticalTimeline.dart';
 
-import 'customClipPath.dart';
+import '../customClipPath.dart';
 
 class ProfileHaytham extends StatelessWidget {
   const ProfileHaytham({Key? key}) : super(key: key);

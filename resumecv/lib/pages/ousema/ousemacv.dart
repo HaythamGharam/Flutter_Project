@@ -1,6 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:resumecv/pages/customAppBar.dart';
 
+import 'experienceousema.dart';
+import 'profileousema.dart';
+import 'skillsousema.dart';
+
 class OusemaCV extends StatefulWidget {
   const OusemaCV({Key? key}) : super(key: key);
 
@@ -29,7 +33,11 @@ class _OusemaCVState extends State<OusemaCV> {
 
   int _selectedIndex = 0;
 
-  final List<Widget> _screens = [];
+  final List<Widget> _screens = [
+    const ProfileOusema(),
+    const SkillsOusema(),
+    const ExperienceOusema(),
+  ];
 
   @override
   Widget build(BuildContext context) {

@@ -33,19 +33,19 @@ class Vertical extends StatelessWidget {
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: const <Widget>[
                           Text(
-                            'Baccalaureate degree Mathematics',
+                            'Baccalaureate degree Technique',
                             style: TextStyle(
                               fontWeight: FontWeight.bold,
                             ),
                           ),
                           Text(
-                            'Majida Boulila High School',
+                            'Fathel Ben Achour High School',
                             style: TextStyle(
                               fontWeight: FontWeight.bold,
                             ),
                           ),
                           Text(
-                            '2016-2017',
+                            '2015-2016',
                             style: TextStyle(
                               fontWeight: FontWeight.bold,
                             ),
@@ -72,19 +72,19 @@ class Vertical extends StatelessWidget {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: const <Widget>[
                         Text(
-                          'Bachelor’s degree In Computer Science an Multimedia',
+                          'Bachelor’s degree In electromechanics speciality industrial maintenance in ISGIS',
                           style: TextStyle(
                             fontWeight: FontWeight.bold,
                           ),
                         ),
                         Text(
-                          'Higher Institute of Computer Science and Multimedia Sfax',
+                          'Higher Institute of Industrial Management Sfax',
                           style: TextStyle(
                             fontWeight: FontWeight.bold,
                           ),
                         ),
                         Text(
-                          '2017-2021',
+                          '2016-2019',
                           style: TextStyle(
                             fontWeight: FontWeight.bold,
                           ),

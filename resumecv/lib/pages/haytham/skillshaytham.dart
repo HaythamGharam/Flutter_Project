@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'customClipPath.dart';
+import '../customClipPath.dart';
 
 class SkillsHaytham extends StatelessWidget {
   const SkillsHaytham({Key? key}) : super(key: key);
